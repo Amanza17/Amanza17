@@ -1,0 +1,21 @@
+fünfundfünfzig Novemdezillion.
+fünfhundertfünfundfünfzig Oktodezillion.
+fünfhundertfünfundfünfzig Septendezillion.
+fünfhundertfünfundfünfzig Sexdezillionen.
+fünfhundertfünfundfünfzig Quindezillionen.
+fünfhundertfünfundfünfzig Quattuordecillion.
+fünfhundertfünfundfünfzig Billionen.
+fünfhundertfünfundfünfzig Duodezillion.
+fünfhundertfünfundfünfzig Undecillion.
+fünfhundertfünfundfünfzig Dezillionen.
+fünfhundertfünfundfünfzig Nonillionen.
+fünfhundertfünfundfünfzig Oktillionen.
+fünfhundertfünfundfünfzig Septillionen.
+fünfhundertfünfundfünfzig Sextillionen.
+fünfhundertfünfundfünfzig Trillionen.
+fünfhundertfünfundfünfzig Billiarden.
+fünfhundertfünfundfünfzig Billionen.
+fünfhundertfünfundfünfzig Milliarden.
+fünfhundertfünfundfünfzig Millionen.
+fünfhundertfünfundfünfzigtausend.
+Fünfhundert Fünf und Fünfzig.
