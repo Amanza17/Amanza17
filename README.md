@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/amanza17.is-a.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amanza17.is-a.dev" height="30" width="40" /></a>
 <a href="https://twitter.com/_manzanares_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_manzanares_17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrian-manzanares-romera17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-manzanares-romera17" height="30" width="40" /></a>
 <a href="https://instagram.com/_manzanares_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manzanares_17" height="30" width="40" /></a>
